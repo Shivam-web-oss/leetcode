@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivam-web-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
