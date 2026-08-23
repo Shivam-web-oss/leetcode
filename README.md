@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivam-web-oss/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shivam-web-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
+| [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam-web-oss/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
+| [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -58,10 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
