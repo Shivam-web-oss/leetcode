@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivam-web-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0709-to-lower-case](https://github.com/Shivam-web-oss/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shivam-web-oss/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
