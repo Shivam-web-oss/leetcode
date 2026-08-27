@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shivam-web-oss/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivam-web-oss/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivam-web-oss/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivam-web-oss/leetcode/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shivam-web-oss/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-web-oss/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
