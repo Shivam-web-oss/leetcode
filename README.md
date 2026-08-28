@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/Shivam-web-oss/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Shivam-web-oss/leetcode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-web-oss/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2404-most-frequent-even-element](https://github.com/Shivam-web-oss/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Shivam-web-oss/leetcode/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/Shivam-web-oss/leetcode/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
