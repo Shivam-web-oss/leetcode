@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivam-web-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivam-web-oss/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivam-web-oss/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivam-web-oss/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
