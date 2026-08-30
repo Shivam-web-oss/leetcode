@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Shivam-web-oss/leetcode/tree/master/1089-duplicate-zeros) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Shivam-web-oss/leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
