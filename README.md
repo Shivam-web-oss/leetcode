@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shivam-web-oss/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shivam-web-oss/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivam-web-oss/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [2418-sort-the-people](https://github.com/Shivam-web-oss/leetcode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
@@ -132,6 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Shivam-web-oss/leetcode/tree/master/2404-most-frequent-even-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
