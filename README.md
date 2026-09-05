@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Shivam-web-oss/leetcode/tree/master/1089-duplicate-zeros) |
+| [1480-running-sum-of-1d-array](https://github.com/Shivam-web-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam-web-oss/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Shivam-web-oss/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam-web-oss/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Shivam-web-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
