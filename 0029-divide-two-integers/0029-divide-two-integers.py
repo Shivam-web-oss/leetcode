@@ -1,13 +1,13 @@
 class Solution(object):
     def divide(self, dividend, divisor):
 
-        max_int = 2**31 - 1
-        min_int = -(2**31)
+        INT_MAX = 2**31 - 1
+        INT_MIN = -2**31
 
-        if dividend == min_int and divisor == -1:
-            return max_int
+        if dividend == INT_MIN and divisor == -1:
+            return INT_MAX
 
-        negative = (dividend < 0) ^ (divisor < 0)
+        negative = (dividend < 0) != (divisor < 0)
 
         dividend = abs(dividend)
         divisor = abs(divisor)
@@ -15,14 +15,17 @@ class Solution(object):
         quotient = 0
 
         while dividend >= divisor:
-            temp_d = divisor
+            temp = divisor
             multiple = 1
 
-            while dividend >= (temp_d << 1):
-                temp_d <<= 1
+            while dividend >= (temp << 1):
+                temp <<= 1
                 multiple <<= 1
 
-            dividend -= temp_d
+            dividend -= temp
             quotient += multiple
 
-        return -quotient if negative else quotient
+        if negative:
+            quotient = -quotient
+
+        return quotient
