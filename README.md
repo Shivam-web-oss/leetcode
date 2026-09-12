@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam-web-oss/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Shivam-web-oss/leetcode/tree/master/1089-duplicate-zeros) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivam-web-oss/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam-web-oss/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Shivam-web-oss/leetcode/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Shivam-web-oss/leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivam-web-oss/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam-web-oss/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/Shivam-web-oss/leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Shivam-web-oss/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-web-oss/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam-web-oss/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam-web-oss/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2418-sort-the-people](https://github.com/Shivam-web-oss/leetcode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivam-web-oss/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam-web-oss/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
