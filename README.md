@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Shivam-web-oss/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam-web-oss/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam-web-oss/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivam-web-oss/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -218,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-web-oss/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivam-web-oss/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
