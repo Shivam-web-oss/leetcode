@@ -8,8 +8,10 @@ class Solution(object):
         bracketMap={')':'(','}':'{',']':'['}
         for char in s:
             if char in bracketMap:
-                top=stack.pop() if stack else '#'
-                if bracketMap[char] != top:
+                # top=stack.pop() if stack else '#'
+                # if bracketMap[char] != top:
+                #     return False
+                if not  stack or stack.pop()!=bracketMap[char]:
                     return False
             else:
                 stack.append(char)
