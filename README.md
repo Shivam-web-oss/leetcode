@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-web-oss/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam-web-oss/leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Shivam-web-oss/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-web-oss/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam-web-oss/leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shivam-web-oss/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shivam-web-oss/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
